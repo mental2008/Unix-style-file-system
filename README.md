@@ -17,23 +17,23 @@ Here is an i-node-based Unix-style file system
 
 ## Functionalities
 
-- createFile <fileName> <fileSize>
+- createFile \<fileName\> \<fileSize\>
 
 Create a file with a fixed size(in KB).
 
-- deleteFile <fileName>
+- deleteFile \<fileName\>
 
 Delete a file if it exists.
 
-- createDir <dirPath>
+- createDir \<dirPath\>
 
 Create a directory.
 
-- deleteDir <dirPath>
+- deleteDir \<dirPath\>
 
 Delete a directory if it exists.
 
-- changeDir <dirPath>
+- changeDir \<dirPath\>
 
 Change the current working directory.
 
@@ -41,7 +41,7 @@ Change the current working directory.
 
 List all the files and sub-directories under current working directory.
 
-- cp <fileName1> <fileName2>
+- cp \<fileName1\> \<fileName2\>
 
 Copy a file(file1) to another file(file2).
 
@@ -49,7 +49,7 @@ Copy a file(file1) to another file(file2).
 
 Display the usage of storage space.
 
-- cat <fileName>
+- cat \<fileName\>
 
 Print out the contents of the file on the terminal.
 
