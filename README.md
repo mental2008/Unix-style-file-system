@@ -71,6 +71,6 @@ make && make clean && ./test
 ```
 ## License
 
-Copyright (c) 2019 杨凌云 李其桦
+Copyright (c) 2019 Lingyun Yang, Qihua Li
 
 Licensed under [Apache License](https://github.com/mental2008/Unix-style-file-system/blob/master/LICENSE).
